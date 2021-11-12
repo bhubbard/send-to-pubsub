@@ -1,0 +1,11 @@
+{
+  "name": "webhook-to-pubsub",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Brandon Hubbard",
+  "dependencies": {
+    "@google-cloud/pubsub": "^1.4.1",
+     "url"   : "^0.11.0"
+  }
+}
